@@ -1,2 +1,3 @@
 # test-repo
-Initial commit
+
+I love :bicyclist: and :pizza:.
